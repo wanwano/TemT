@@ -23,6 +23,7 @@ python3 python3 co-train.py -d DATA_NAME --only_eva true --eva_dir MODEL_DIR
 ```
 
 ### Citation
+If you use the codes, please cite the following paper:
 
 ### License
-If you use the codes, please cite the following paper:
+This source code is licensed under the license found in the LICENSE file in the root directory of this source tree.
